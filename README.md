@@ -1,5 +1,9 @@
 <h1 align="center">👋 Halo, saya Kotka</h1>
-<h3 align="center">Full-Stack Developer & Tech Enthusiast</h3>
+<h3 align="center">Belajar Ngoding Sambil Vibe Coding 🎧</h3>
+
+<p align="center">
+  "Masih belajar, tapi selalu semangat bikin hal-hal keren bareng AI."
+</p>
 
 <br>
 
@@ -11,38 +15,38 @@
 
 ---
 
-### 🛒 Produk Digital Saya
+### 💡 Tentang Saya
 
-<p align="center">
-  <a href="https://lynk.id/kotkapatch" target="_blank">
-    <img src="https://img.shields.io/badge/Lihat%20Produk%20Digital-9cf?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Toko Produk Digital"/>
-  </a>
-</p>
+Saya seorang **developer pemula** yang sedang belajar membangun proyek-proyek kecil dan bereksperimen dengan berbagai teknologi.  
+Suka banget **vibe coding** sambil denger musik, pakai bantuan **AI** buat belajar lebih cepat, dan senang berbagi hasil eksperimen ke komunitas.
 
----
-
-### 👨‍💻 Tentang Saya
-
-Saya seorang pengembang perangkat lunak dengan hasrat untuk membangun aplikasi web yang fungsional dan efisien. Saat ini saya berfokus pada ekosistem JavaScript, namun selalu terbuka untuk mempelajari teknologi baru.
-
-- 🔭 Saat ini saya sedang mengerjakan **sebuah aplikasi manajemen proyek pribadi.**
-- 🌱 Saya sedang mendalami **TypeScript dan GraphQL.**
-- 💬 Tanya saya tentang **React, Node.js, atau arsitektur sistem.**
-- 📫 Hubungi saya melalui email di: **kotkapatch@gmail.com**
+- 🌱 Saat ini saya lagi belajar: **JavaScript**, **Lua**, dan **penggunaan AI buat bantu coding**  
+- 🎯 Fokus utama: bikin script, mod, dan tools sederhana yang berguna  
+- 💬 Bisa ngobrol santai soal: **modding**, **otomasi**, atau **belajar ngoding dari nol**  
+- 📨 Kontak: **kotkapatch@gmail.com**
 
 ---
 
-### 🛠️ Teknologi & Tools yang Saya Gunakan
+### 🧰 Tools & Bahasa yang Lagi Saya Gunakan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,docker,git,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,lua,html,css,react,nodejs,vscode,git&perline=6" />
   </a>
 </p>
 
+> Saya masih belajar, jadi daftar ini bakal terus berkembang seiring waktu ✨
+
 ---
 
-### 📊 Statistik GitHub Saya
+### 🎶 Vibe Coding Style
+
+Ngoding sambil santai, denger musik, pakai bantuan AI kayak Open AI buat belajar, debug, atau nemuin ide baru.  
+Yang penting **nikmatin proses** dan terus improve setiap hari.
+
+---
+
+### 📈 Statistik GitHub
 
 <p align="center">
   <img 
@@ -59,7 +63,17 @@ Saya seorang pengembang perangkat lunak dengan hasrat untuk membangun aplikasi w
 
 ---
 
-### 🌐 Hubungi Saya
+### 🛒 Produk & Proyek Kecil
+
+<p align="center">
+  <a href="https://lynk.id/kotkapatch" target="_blank">
+    <img src="https://img.shields.io/badge/Lihat%20Produk%20Digital-9cf?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Toko Produk Digital"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Sosial & Kontak
 
 <p align="center">
   <a href="mailto:kotkapatch@gmail.com" target="_blank">
@@ -68,10 +82,16 @@ Saya seorang pengembang perangkat lunak dengan hasrat untuk membangun aplikasi w
   <a href="https://discordapp.com/users/kotkaaaja" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://linkedin.com/in/kotkaaja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://tiktok.com/@kotkaaja" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://twitter.com/kotkaaja" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://youtube.com/@kotkaaja" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 "Belajar pelan-pelan, nikmatin proses dengan santai."
 </p>
