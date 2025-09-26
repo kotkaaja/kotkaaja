@@ -1,17 +1,12 @@
 <h1 align="center">👋 Hai, gw Kotka</h1>
-<h3 align="center">Belajar & Ngoding Santai Bareng Komunitas</h3>
 
----
+<br>
 
-### 🧠 Fokus & Bahasa yang Dipelajari
-- Lua  
-- Python  
-- Java  
-- JavaScript  
-- Kotlin  
-- HTML / CSS  
-- Flutter  
-- JSX  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kotkaaja&theme=dracula&column=7&no-frame=true&no-bg=true" alt="kotkaaja"/>
+  </a>
+</p>
 
 ---
 
@@ -57,6 +52,5 @@
 ---
 
 <p align="center">
-  Ngoding santai, belajar bareng, dan nikmatin prosesnya 🚀
+   belajar bareng, dan nikmatin prosesnya 🚀
 </p>
-
